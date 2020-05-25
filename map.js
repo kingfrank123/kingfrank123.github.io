@@ -1,6 +1,7 @@
 function loadMap(){
  Plotly.setPlotConfig({
-        mapboxAccessToken: 'pk.eyJ1Ijoia2luZ2ZyYW5rMTIzIiwiYSI6ImNqbzIxbzBydDBoc3QzdnBoZGN0MW04cmYifQ.yQrhGMSeznzFMjEO64FmXA'
+        mapboxAccessToken: 'pk.eyJ1Ijoia2luZ2ZyYW5rMTIzIiwiYSI6ImNqcDRmM3k4ODAwc3Iza212Nm1nNDh4MGEifQ.gTwz3HGWpquQfM7wOQaDkQ'
+        
     });
 
     var xhttp = new XMLHttpRequest();
